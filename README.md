@@ -20,9 +20,8 @@ ToDo-App/ │── index.html # Main HTML file │── style.css # Styling (C
 
 ## 🎮 How to Run the Project
 1. **Clone the repository**:
-   git clone https://github.com/yourusername/ToDo-App.git
-
-Open index.html in a browser.
+   https://github.com/anurag04me/TO_DO_LIST.git
+   Open index.html in a browser.
 🌍 Deploy on GitHub Pages
 Go to GitHub → Repository → Settings → Pages.
 Select Branch: main and click Save.
